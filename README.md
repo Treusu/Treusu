@@ -24,6 +24,6 @@
 [![JobStreet](https://img.shields.io/badge/-JobStreet-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgODAiPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0yMjQgMEgxNnY4MGgyMDhWMEgzMmw0OCA0OEg4MHYzMmgzMlY0OGg0OHoiLz48L3N2Zz4=&logoColor=white&logoWidth=35)](https://ph.jobstreet.com/profile/richard-cubia-QQ54l2dckp) 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=35)](https://www.facebook.com/TreusKun)  
 
-## 💻 Most Used Languages  
+## 💻 My Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Treusu&layout=donut&title_color=ffffff&text_color=FFFFFF&bg_color=000000&border_radius=20)
 </div>
