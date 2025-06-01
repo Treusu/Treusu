@@ -1,4 +1,4 @@
-# こんにちは (Hello)
+# ![image](https://github.com/user-attachments/assets/db1bb21b-b793-4d98-bc65-f6967e8751ed)(Praise the Fool!)
 
 Treus@github:~$ kali enthusiast | full-stack operator (C#/Java/web)
 
